@@ -42,7 +42,7 @@
 #include <Eigen/Dense>
 #include <Eigen/StdVector>
 
-#include <opencv2/core/core.hpp>
+#include <opencv2/opencv.hpp>
 
 #include <pcl/filters/extract_indices.h>
 #include <pcl/point_cloud.h>
